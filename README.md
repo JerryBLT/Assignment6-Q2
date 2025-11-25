@@ -1,5 +1,5 @@
 # Assignment6-Q2
-This project implements a Compass (using magnetometer + accelerometer) and a Digital Level (using gyroscope). The UI is built in Jetpack Compose and updates in real time based on sensor readings.
+This project implements a Compass (using magnetometer + accelerometer) and a Digital Level (using gyroscope). The UI is built in Jetpack Compose and updates in real time based on sensor readings. A full Simulation Mode is included so the app can be tested easily on the Android Emulator, which does not have real sensor hardware.
 
 ## Features
 
